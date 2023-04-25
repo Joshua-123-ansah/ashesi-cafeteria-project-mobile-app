@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "637184310082",
+    "project_id": "ashesicafeteriaproject",
+    "storage_bucket": "ashesicafeteriaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637184310082:android:caf6fa7dd14d9bdb29e6db",
+        "android_client_info": {
+          "package_name": "com.application.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637184310082-os3cc9so3u7v1788tvid4pcutug897u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXa8GUtL_XTQTx7hzYmNDfpEC51YasGo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637184310082-os3cc9so3u7v1788tvid4pcutug897u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637184310082:android:c73223dce0f4d66a29e6db",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637184310082-os3cc9so3u7v1788tvid4pcutug897u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXa8GUtL_XTQTx7hzYmNDfpEC51YasGo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637184310082-os3cc9so3u7v1788tvid4pcutug897u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
